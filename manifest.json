@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./carpeta.png",
+            "src": "./cat.png",
             "type": "image/png",
             "sizes": "512x512"
         }
